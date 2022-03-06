@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\ve00ym342\Documents\banking_project_spring_boot\.metadata\.plugins\org.eclipse.jdt.core
+2456830877.index
+1142990880.index
+2314261787.index
+2149625937.index
